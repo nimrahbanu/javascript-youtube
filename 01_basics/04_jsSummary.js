@@ -29,3 +29,10 @@ function myFInction(){
     console.log("hello")
 }
 console.log(typeof myFInction); // function
+
+
+//++++++++++++Memory+++++++++++
+//Stack(Primitive->copy milta h), Heap(Non-primitive->refrence milta h->original value me changes hote h)
+
+
+ 
