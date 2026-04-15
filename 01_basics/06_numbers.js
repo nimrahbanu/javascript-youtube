@@ -21,3 +21,4 @@ console.log((1000000).toLocaleString('en-IN')) //10,00,000
 
 //++++++++++++ MAths +++++++++++
 console.log(Math)
+console.log(Math.random())
